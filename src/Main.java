@@ -6,7 +6,7 @@ public class Main {
         int action;
         Cat[] allCats = new Cat[4];
         allCats[0] = new Cat("Барсик", 10, false);
-        allCats[1] = new Cat("Снежок", 21, false);
+        allCats[1] = new Cat("Мурзик", 21, false);
         allCats[2] = new Cat("Черныш", 12, false);
         allCats[3] = new Cat("Белый", 34, false);
 
